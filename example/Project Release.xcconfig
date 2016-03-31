@@ -1,0 +1,3 @@
+#include "./Project.xcconfig"
+
+//OTHER_LDFLAGS = $(OTHER_LDFLAGS) $(OFXHWDPLUGIN_DIR)/libs/HwdLib/lib/osx/HwdLib.a
